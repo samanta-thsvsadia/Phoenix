@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F189C637-AA4C-4ABE-B751-84C4B8EF2478"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18E7E4BF-7CCD-42D6-8DB0-7C2C9284B3A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/Chat/MainMessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "messagesView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CC1B032-F38D-4826-B2B6-6C6306CD61D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/PostCardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "deletePost()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8CC1B032-F38D-4826-B2B6-6C6306CD61D6 - f4b60bc8fb2eb135"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PhoenixApp.PostCardView.deletePost() -&gt; ()"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/PostCardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177">
+               </Location>
+               <Location
+                  uuid = "8CC1B032-F38D-4826-B2B6-6C6306CD61D6 - 45b1d42759757537"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PhoenixApp.PostCardView.deletePost() -&gt; ()"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/PostCardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177">
+               </Location>
+               <Location
+                  uuid = "8CC1B032-F38D-4826-B2B6-6C6306CD61D6 - f4b60bc8fb2eb152"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PhoenixApp.PostCardView.deletePost() -&gt; ()"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/PostCardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180">
+               </Location>
+               <Location
+                  uuid = "8CC1B032-F38D-4826-B2B6-6C6306CD61D6 - 45b1d42759757550"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PhoenixApp.PostCardView.deletePost() -&gt; ()"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/PostCardView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "180"
+                  endingLineNumber = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/MainMessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "MainMessagesView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - 3405f274d1c47f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PhoenixApp.MainMessagesView.vm : PhoenixApp.CreateNewMessageViewModel"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - 4c706b0e89b39baf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoenixApp.MainMessagesView.vm.getter : PhoenixApp.CreateNewMessageViewModel"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - 7c03c6081748a4ed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoenixApp.MainMessagesView.vm.setter : PhoenixApp.CreateNewMessageViewModel"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - d248be48652630f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoenixApp.MainMessagesView.vm.modify : PhoenixApp.CreateNewMessageViewModel"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - ead9286f2df057b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoenixApp.MainMessagesView.vm.modify : PhoenixApp.CreateNewMessageViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - af6bcc14c640fac6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhoenixApp.MainMessagesView.$vm.getter : SwiftUI.ObservedObject&lt;PhoenixApp.CreateNewMessageViewModel&gt;.Wrapper"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26">
+               </Location>
+               <Location
+                  uuid = "8EAF405D-DBDB-4F69-A858-EA81D5D3D21E - 9ff867fab79174d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 9 of PhoenixApp.MainMessagesView.init(user: PhoenixApp.User, profileURL: SwiftUI.AppStorage&lt;Swift.Optional&lt;Foundation.URL&gt;&gt;, userName: Swift.String, userUID: Swift.String, logStatus: Swift.Bool, errorMessage: Swift.String, showError: Swift.Bool, isLoading: Swift.Bool, shouldShowLogOutOptions: Swift.Bool, vm: PhoenixApp.CreateNewMessageViewModel, shouldShowNewMessageScreen: Swift.Bool) -&gt; PhoenixApp.MainMessagesView"
+                  moduleName = "PhoenixApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sadiathasina/Desktop/PhoenixApp/PhoenixApp/MainMessagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03DB45D5-49DC-42F0-8AE7-C2E2F50E52CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/MessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41692303-B29D-4C75-810F-3DAF44C8120B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/MessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A245158-28C2-47F2-93C2-98CA336FF99F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhoenixApp/MessagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,13 @@
+{
+  "MLModelVersionStringKey" : "3.0",
+  "MLModelDescriptionKey" : "ML Package for Phoenix App",
+  "MLModelCreatorDefinedKey" : {
+    "Prediction Window Size" : "1",
+    "com.apple.createml.app.tag" : "151.2",
+    "com.apple.coreml.model.preview.type" : "handPoseClassifier",
+    "com.apple.createml.app.version" : "6.2",
+    "Target Frame Rate" : "30.0"
+  },
+  "MLModelAuthorKey" : "Sadia Thasina Samanta",
+  "MLModelLicenseKey" : "--"
+}
