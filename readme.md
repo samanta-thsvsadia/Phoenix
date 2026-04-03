@@ -14,7 +14,7 @@ This application was live on the App Store from 12/24 to 01/26
 ## App Media
 | Live Camera | Image Detection |
 | :---: | :---: |
-| <img src="link" width="280" alt="ML Translation Demo"> | <img src="link" width="280" alt="Social Feed Demo"> |
+| <img src="https://github.com/samanta-thsvsadia/Phoenix/blob/main/Media/Live%20Camera.gif" width="280" alt="ML Translation Demo"> | <img src="https://github.com/samanta-thsvsadia/Phoenix/blob/main/Media/Image%20Translation.gif" width="280" alt="Image Demo"> |
 | *Real-time inference at 30fps* | *Post creation and community feed* |
 
 ---
